@@ -1,0 +1,26 @@
+{
+  "name": "dewdrop-chat-bot",
+  "version": "1.0.0",
+  "description": "a slack chat for fun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/balancedbreakfast/dewdrop-chat-bot.git"
+  },
+  "keywords": [
+    "slack",
+    "chat",
+    "bot"
+  ],
+  "author": "balancedbreakfast",
+  "bugs": {
+    "url": "https://github.com/balancedbreakfast/dewdrop-chat-bot/issues"
+  },
+  "homepage": "https://github.com/balancedbreakfast/dewdrop-chat-bot#readme",
+  "dependencies": {
+    "botkit": "^0.4.1"
+  }
+}
